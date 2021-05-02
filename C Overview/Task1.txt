@@ -1,1 +1,2 @@
-What is the extension of C program file?
+1.What is the extension of C program file?
+Ans: The extension of C program is .c .
