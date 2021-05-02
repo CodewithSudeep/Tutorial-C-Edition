@@ -1,1 +1,2 @@
-Who invented C programming language?
+2.Who invented C programming language?
+Ans : Brian Kernighan and Dennis Ritchie 
