@@ -1,0 +1,2 @@
+Who invented C programming language?
+=> Dennis M. Ritchie invented C programming language
