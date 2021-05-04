@@ -1,1 +1,2 @@
 Who invented C programming language?
+ans: C programming language was invented by Dennis M.Ritchie 
