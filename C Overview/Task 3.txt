@@ -1,5 +1,11 @@
 3. Define C programming Language and write some facts about it.
-Ans: 
+Ans: The C programming language is a general-purpose, high-level language that was 
+originally  intended for writting system software.
+
+some facts about C language are given below:
+1.It is an outgrowth of two earlier language,called BCPL and B.
+2.Another high level programming language C++ is also built upon C.
+
 
 
 
