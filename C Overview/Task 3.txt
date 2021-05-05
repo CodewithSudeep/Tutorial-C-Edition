@@ -1,6 +1,11 @@
 3. Define C programming Language and write some facts about it.
-Ans: 
-
+Ans: C programming language is the structured programming language which is extensively 
+used to write various application, os.
+Some facts about it are:-
+1.C is the only programming language that exists for such a long period and still it 
+is widely used.
+2.“? : ” is the only ternary operator in C language.
+3.In printf() and scanf(), f stands for formatted not function.
 
 
 

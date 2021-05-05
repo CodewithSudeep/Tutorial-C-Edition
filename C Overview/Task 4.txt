@@ -1,1 +1,8 @@
 4.Why C programming language called exactly  C and  Write some uses of C progarmming language.
+
+Ans:C programming language called exactly C because it came after B language.C has been
+improved from time to time since its initial release.Some uses of C programming language are:
+
+1)It is widely used for developing desktop applications
+2)Most of the applications by Adobe are developed using 'C' programming language.
+3)It is used for developing browsers and their extensions.
