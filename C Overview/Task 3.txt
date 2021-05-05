@@ -1,5 +1,22 @@
 3. Define C programming Language and write some facts about it.
-Ans: 
+=> The c language was developed in 1970’s at Bell 
+   laboratories, by Dennis Ritchie . It is designed for 
+   the operating system called UNIX.
+   C is derived form the B language,  
+   It is excellent, efficient and general 
+   purpose language for most of the applications, 
+   such as scientific business , system software & 
+   application software
+Facts about C
+* C was invented to write an operating system called UNIX.
+* C is a successor of B language, which was introduced around 1970.
+* The language was formalized in 1988 by the American National Standard Institute.
+  (ANSI).
+* The UNIX OS was totally written in C by 1973.
+
+* Today, C is the most widely used and popular System Programming Language.
+* Most of the state-of-the-art softwares have been implemented using C.
+* Today's most ][popular Linux OS and RBDMS MySQL have been written in C.
 
 
 
