@@ -1,1 +1,6 @@
 4.Why C programming language called exactly  C and  Write some uses of C progarmming language.
+
+Ans.The language has been given the name C because it succeeds another language called B language.
+	Uses of c programming language
+   -The C programming language is used for developing operating software such as Windows, UNIX and Linux.
+   -C language is a system programming language because it can be used to do low-level programming.

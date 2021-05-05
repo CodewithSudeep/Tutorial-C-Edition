@@ -1,6 +1,10 @@
 3. Define C programming Language and write some facts about it.
-Ans: 
-
+Ans:  C is a high-level and general-purpose programming language that 
+      is ideal for developing firmware or portable applications
+	Facts of c progarmmig language
+    -C was invented to write an operating system called UNIX.
+    -C is a successor of B language.
+    -Today C is the most widely used and popular System Programming Language.
 
 
 
