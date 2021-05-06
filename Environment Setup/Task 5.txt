@@ -1,0 +1,2 @@
+5. Write short notes about C editor and C complier with their major features. 
+Ans: 
