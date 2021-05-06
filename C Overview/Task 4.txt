@@ -1,0 +1,2 @@
+4.Why C programming language called exactly  C and  Write some uses of C progarmming language.
+:- 
