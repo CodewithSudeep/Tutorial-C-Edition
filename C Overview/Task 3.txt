@@ -1,6 +1,6 @@
 3. Define C programming Language and write some facts about it.
 Ans: 
-
+1 2 3
 
 
 
