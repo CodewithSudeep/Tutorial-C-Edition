@@ -1,6 +1,20 @@
 3. Define C programming Language and write some facts about it.
-Ans: 
-1 2 3
+Ans:C language is neither a high level language nor low level language.It is very close to machine architecture  but independent of it and at the same time does
+not compromise it's case of use "C" is considered as a system programming language.
+Advantages of C:
+1)Modularity
+2)General purpose programming language
+3)Middle level language 
+4)Portability
+5)Speed of compilation
+
+
+"C" language was designed by Dennis Ritchie at Bell laboratories in early 1970s.C language was influenced by the following programming language:-
+-ALGOL 60(1960)
+-CPL (cambridge 1963)
+-BCPL (Martine Richard,1967)
+-B (ken Thompson,1970)ss
+
 
 
 
