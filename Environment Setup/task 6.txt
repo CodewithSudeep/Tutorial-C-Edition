@@ -1,0 +1,1 @@
+6. Write about the process or methodology of installing DevC++ in your system(According to your own system like Window/unix and Mac) and write its some features.
