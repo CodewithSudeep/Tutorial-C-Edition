@@ -1,6 +1,6 @@
 3. Define C programming Language and write some facts about it.
 Ans:
-
+The c programming language is a general-purpose, hihg-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs.
 
 
 
