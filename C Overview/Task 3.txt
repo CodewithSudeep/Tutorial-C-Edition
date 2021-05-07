@@ -1,6 +1,11 @@
 3. Define C programming Language and write some facts about it.
 Ans:
 The c programming language is a general-purpose, hihg-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs.
+The facts about C program are:-
+1. C was invented to write an operating system called UNIX.
+2. C is a successor of B language, which was introduced around 1970.
+3. The language was formalized in 1988 by the American National Standard institute(ANSI).
+4. The UNIX OS was totally written in C by 1973.
 
 
 
