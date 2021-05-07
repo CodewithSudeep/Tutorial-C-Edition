@@ -1,2 +1,4 @@
 7. Write short note about Github and write its essential commands with there major work.
-Ans:
+Ans:GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and Pull Requests.
+Github is a web-based platform used for version control. Git simplifies the process of working with other people and makes it easy to collaborate on projects. Team members can work on files and easily merge their changes in with the master branch of the project.
+everal important Git commands to move (push) your code from a local repository to a remote repository and to grab (pull) your team's collective code from a remote repository. Git has a "remote" command to deal with remote repositories.
