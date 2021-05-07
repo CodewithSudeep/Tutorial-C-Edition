@@ -1,5 +1,12 @@
 3. Define C programming Language and write some facts about it.
-Ans:
+Ans:C language is neither a high level language nor low level language.It is very close to machine architeture independent of it and at the same time does not 
+     compromise it's case of use. "C" is called as middle level language and "c" is considered as a system programming language.
+  "C" language was designed by Dennis Ritchie at Bell laboratories in early 1970s.C language was influenced by the following programming languages:-
+
+1)ALGOL 60 (1960)
+2)CPL (cambridge 1963)
+3)BCPL (Martine Richard,1967)
+4)B (Ken Thompson,1970)sssss
 
 
 

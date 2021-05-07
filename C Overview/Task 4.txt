@@ -1,2 +1,9 @@
 4.Why C programming language called exactly  C and  Write some uses of C progarmming language.
-:- 
+:-The language has been given the name C because it succeeds an earlier programming language named "B" that had been introduced around 1970.C is one of the most popular
+  computer programming languages which has existed since the last 44 years. 
+
+  Uses of C programming language:-
+ - widely used in embedded systems
+ - used for developing system applications
+ - widely used for developing desktop applications
+ - used for developing browsers and their extensions.   
