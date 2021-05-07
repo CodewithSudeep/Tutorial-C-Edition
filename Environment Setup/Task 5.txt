@@ -1,2 +1,8 @@
 5. Write short notes about C editor and C complier with their major features. 
 Ans: 
+The files you create with your editor are called source files and contain program source 
+code. The source files for C programs are typically named with the extension “.c”.
+
+This C programming language compiler will be used to compile your source code into final 
+executable program. I assume you have basic knowledge about a programming language 
+compiler.
