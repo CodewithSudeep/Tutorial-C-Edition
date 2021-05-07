@@ -1,2 +1,8 @@
 4.Why C programming language called exactly  C and  Write some uses of C progarmming language.
 :- 
+C was initially used for system development work, in particular the programs that make up 
+the operating system. The some uses of C language are :-
+1 Operating Systems
+2 Language Compilers
+3 Assemblers
+4 Text Editors
