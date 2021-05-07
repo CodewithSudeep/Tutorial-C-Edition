@@ -1,1 +1,9 @@
 6. Write about the process or methodology of installing DevC++ in your system(According to your own system like Window/unix and Mac) and write its some features.
+ans:-
+The process or methodology of installing DevC++ in windows are as follows:-
+1.The first step while we start the installer is to select the language of our choice as shown in the below screenshot.
+2.Once you select the appropriate language, you have to agree to the license agreement that pop-ups next.
+3.Next, we are asked to select the components that we need to install as a part of the dev-C++ installation.
+4.Now the installer prompts the user for the destination folder where the dev-C++ files/libraries etc. are to be copied.
+5.Once the installation is over, a “finish” dialog that signals the end of the installation appears. We click finish and then we can launch the dev-C++ IDE.
+
