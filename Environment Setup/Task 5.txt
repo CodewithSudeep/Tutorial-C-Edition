@@ -1,2 +1,25 @@
-5. Write short notes about C editor and C complier with their major features. 
-Ans: 
+5. Write short notes about C editor and C complier with their major features
+-: Editors are software programs that enable the users to create and edit text files.In the field of programming,the term editor usually refers to sourse code editors 
+  that include many special features for writing and editing codes.
+  
+
+  FEATURES:
+-File operations
+-cursor motion
+-cut and paste
+-search and replace
+-Buffers and windows
+-customization
+
+
+
+-A complier is a special program that processes statements written in a particular programming languageand turns them into machine machine language or "code" that
+  a computer's processor uses.Typically,a programmer writes language statements in a language such as Pascal or C one line at a time using an editor.
+
+  FEATURES:
+-correctness
+-speed of compilation 
+-The speed of target code
+-Recognize legal and illegal program constructs
+-Good error reporting/handling
+-code debugging help.
