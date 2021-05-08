@@ -1,2 +1,24 @@
 7. Write short note about Github and write its essential commands with there major work.
 Ans:
+	GitHub is a web-based version-control and collaboration platform for software developers. Microsoft, the biggest single contributor to GitHub, 
+initiated an acquisition of GitHub for $7.5 billion in June, 2018.Git is used to store the source code for a project and track the complete history of all changes 
+to that code It allows developers to collaborate on a project more effectively by providing tools for managing possibly conflicting changes from multiple developers.
+
+Its essential commands with their major work are:-
+1. Git clone
+Git clone is a command for downloading existing source code from a remote repository (like Github, for example). In other words, Git clone basically makes an identical
+copy of the latest version of a project in a repository and saves it to your computer.
+
+2. Git branch
+Branches are highly important in the git world. By using branches, several developers are able to work in parallel on the same project simultaneously. We can use the 
+git branch command for creating, listing and deleting branches.
+
+3.Git add
+When we create, modify or delete a file, these changes will happen in our local and won't be included in the next commit (unless we change the configurations).
+
+4.Git push
+After committing your changes, the next thing you want to do is send your changes to the remote server. Git push uploads your commits to the remote repository.
+
+5.Git pull
+The git pull command is used to get updates from the remote repo. This command is a combination of git fetch and git merge which means that, when we use git 
+pull, it gets the updates from remote repository (git fetch) and immediately applies the latest changes in your local (git merge).
