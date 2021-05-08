@@ -1,4 +1,5 @@
 3. Define C programming Language and write some facts about it.
+<<<<<<< HEAD
 Ans: C programming language is the structured programming language which is extensively 
 used to write various application, os.
 Some facts about it are:-
@@ -6,6 +7,10 @@ Some facts about it are:-
 is widely used.
 2.“? : ” is the only ternary operator in C language.
 3.In printf() and scanf(), f stands for formatted not function.
+=======
+Ans:
+
+>>>>>>> 30d85589dfecb8a7ed1084573900feb8fcd54e18
 
 
 

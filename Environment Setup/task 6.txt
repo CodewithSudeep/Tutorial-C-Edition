@@ -1,0 +1,16 @@
+6. Write about the process or methodology of installing DevC++ in your system(According to your own system like Window/unix and Mac) and write its some features.
+
+Ans:-
+The process or methodology of installing Dev C++ in your system are:-
+1) The first step while we start the installer is to select the language of our choice.
+2) Once you select the appropriate language, you have to agree to the license agreement that pop-ups next.
+3) Next, we are asked to select the components that we need to install as a part of the dev-C++ installation.
+4) Now the installer prompts the user for the destination folder where the dev-C++ files/libraries etc. are to be copied.
+5) The following screenshot shows the progress of the installation.
+
+Its some features are:-
+a.TDM-GCC 9.2.0 32/64bit
+b.Support GCC-based compilers
+c.Integrated debugging (using GDB)
+d.GPROF profilinge
+e.Project Manager
