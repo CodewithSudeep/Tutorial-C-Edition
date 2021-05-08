@@ -1,0 +1,8 @@
+6. Write about the process or methodology of installing DevC++ in your system(According to your own system like Window/unix and Mac) and write its some features.
+ a. Goole search for DevC++
+b. Click on download link
+c. download .exe file for windows and install.
+
+Features:
+1. Multiple theme 
+2. multiple font 

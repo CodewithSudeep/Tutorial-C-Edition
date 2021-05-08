@@ -1,0 +1,14 @@
+5. Write short notes about C editor and C complier with their major features. 
+Ans:
+C editor:
+ An editor is a specialized wprd processor used to prepare or write source code in a programming lanuage ( eg: C , C++,
+java and FORTRAN). we write a computer program with words and symbols that are understandable to human beings in the editor.
+you type the program directly into a windows on the screen and save the resulting text as separate file .this is often
+referred to as the source code .the custom is that the text of a C program is stored in a file with the extension .c for
+C programming language.
+
+C compiler:
+you cannot directly execute the source file (code). to run on any computer system ,the source file must be translated into
+binary numbers (machine level language) understandable to the computer's central processing unit. the compiler produces 
+an object from source file for the target computer/operating system i:e compiler translates the preprocessed source code
+into machine language that consists sequences of 0s and 1s. 
