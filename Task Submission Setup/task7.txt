@@ -1,2 +1,11 @@
 7. Write short note about Github and write its essential commands with there major work.
-Ans:
+Ans:Github is a web-based version-control and collaboration platform for software developers.Github allows developers to change,adapt and improve software from it's
+ public repositories for free,but it charges for private repositories,offering various paid plans.
+
+essential commands of github-:
+ 
+1)git clone- it creates a local copy of a project that already exists remotely.The clone includes all the project's files,history,and branches.
+2)git add . -It stages a change.Git tracks changes to developers codebase,but it's necessary to stage and take a snapshot of the changes to include them in the 
+             project's history.
+3)git commit -It saves the snapshot to the project history and completes the change-tracking process.
+4)git branch -It shows the branches being worked on locally.
