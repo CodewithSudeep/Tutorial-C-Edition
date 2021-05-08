@@ -1,1 +1,15 @@
 6. Write about the process or methodology of installing DevC++ in your system(According to your own system like Window/unix and Mac) and write its some features.
+-:Methodology of installing DevC++ are as follows:-
+ Double click the executable file. Start the installation by clicking Next button. Choose the destination folder and install it. Once the installation is complete,
+ go to My Computer > Properties > Advanced System Settings > Advanced Tab.
+  
+features of DevC++ are follows:-
+-TDM-GCC 9.2 0 32/64bit
+-Support GCC-based compilers
+-Integrated debugging (using GDB)
+-GPROF profiling
+-project manager
+-Customizable syntax highlighting editor
+-class browser
+-code completion
+
