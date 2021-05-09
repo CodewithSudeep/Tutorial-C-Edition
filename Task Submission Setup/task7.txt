@@ -1,0 +1,13 @@
+7. Write short note about Github and write its essential commands with there major work.
+Ans:GitHub is a Git repository hosting service, but it adds many of its own features.
+    GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features,
+    such as  basic task management tools for every project.copying a repository from one user’s account to another.
+    This enables you to take a project that you don’t have write access to and modify it under your own account.
+    If you make changes you’d like to share, you can send a notification called a “pull request” to the original owner. 
+    That user can then, with a click of a button, merge the changes found in your repo with the original repo.
+    => commands and there major work:
+      1)git clone<url>:- its is used to copying a github repository to our local computer
+      2) git add . :-git add adds your modified files to the queue to be committed later
+      3)git commit :- commits the files that have been added and creates a new revision with a log
+      4)git push :-   pushes your changes to the remote repository.
+      5)git pull :-  fetch and merge any commits from the tracking remote branch 

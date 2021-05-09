@@ -1,0 +1,13 @@
+6. Write about the process or methodology of installing DevC++ in your system(According to your own system like Window/unix and Mac) and write its some features.
+=>
+1) Download Dev C++ .exe from its official site
+2)  Double click the executable file
+3) start the installation by clicking net button
+4) Choose the destination folder and install it
+5)after the installation Click OK and start Dev C++ to write the program.
+ => features
+1) Project Manager
+2)code completion
+3)function listing
+4) tool manager
+5) edit and compile resource files

@@ -1,0 +1,25 @@
+5. Write short notes about C editor and C complier with their major features. 
+Ans: compiler:-
+		compiler is used to convert the high level language into machine
+level language. The program written in high level language is known as source
+program and the corresponding machine level language program is called as object
+program. Compiler read the program at-a-time and searches the error and lists
+them. If the program is error free then it is converted into object program. When
+program size is large then compiler is preferred. Whereas interpreter read only one
+line of the source code and convert it to object code. If it check error, statement by
+statement and hence of take more time. 
+
+=>functions
+1) Compiler is used to convert one form of program to another
+2) A compiler should convert the source program to a target machine code 
+   in such a way that the generated target code should be easy to understand
+
+3) Compiler should preserve the meaning of source code
+4) Compiler should report errors that occur during compilation process
+
+ C editor:-
+             C editor is used to write and edit C code. 
+             editor usually refers to source code editors that include 
+               many special features for writing and editing code. after writing or editing
+          	code we need to save file with extension 
+            

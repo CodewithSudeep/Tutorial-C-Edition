@@ -1,4 +1,5 @@
 4.Why C programming language called exactly  C and  Write some uses of C progarmming language.
+<<<<<<< HEAD
 => C is a successor of B language so it is named as C
 => uses of C :-
 *for producing compilers
@@ -10,3 +11,6 @@
 * Print Spoolers
 * Network Drivers
 * Modern Programs
+=======
+:- 
+>>>>>>> 30d85589dfecb8a7ed1084573900feb8fcd54e18
