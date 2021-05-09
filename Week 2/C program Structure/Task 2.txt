@@ -1,0 +1,14 @@
+W2.2) Write a hello world code and mention its various parts with short explaination.	
+	
+	#include <stdio.h>
+ // iis a preprocessor command, which tells compiler to include stdio.h file 
+
+	int main(){
+ //is main function where program execution begins
+
+ 	   printf("Hello World"); 
+ // to dispaly "..."in screen
+ 
+ 	return 0; 
+// terminates main()function and returns the value 0.
+	}
