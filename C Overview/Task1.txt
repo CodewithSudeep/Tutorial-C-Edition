@@ -1,2 +1,0 @@
-What is the extension of C program file?
-The extension of C program file is .c
