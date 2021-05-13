@@ -1,1 +1,9 @@
 W2.4) Write a proram to store your information like (Name,Age, Gender, Address, Email Address, Favrouit song).
+
+ #include<stdio.h>
+#include<conio.h>
+int main()
+{
+	printf("I am 18 years old");
+	return 0;
+}
