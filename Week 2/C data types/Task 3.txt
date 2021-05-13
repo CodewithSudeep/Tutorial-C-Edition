@@ -1,1 +1,22 @@
 W2.3) Write a code using Int,float datatypes.
+
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+	int a,b,add,sub,product,div;
+	printf("enter first number/n");
+	scanf("%d",&a);
+	printf("enter second number/n");
+	scanf("%d",&b);
+	add=a+b;
+	sub=a-b;
+	product=a*b;
+	div=a/b;
+	printf("sum of %d and %d=%d,n,a,b,add");
+	printf("difference of %d and %d=%d,n,a,b,sub");
+	printf("product of %d and %d=%d,n,a,b,product");
+	printf("quotint of %d and %d=%d,n,a,b,div");
+	getch();
+	
+}
