@@ -1,1 +1,8 @@
 W2.2) Write a hello world code and mention its various parts with short explaination.
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	printf ("Hello, World !");
+	return 0;
+}
