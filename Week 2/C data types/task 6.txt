@@ -1,1 +1,19 @@
 W2.6) Write a program using different variable like Int, Char, Float, String.
+
+
+
+#include <stdio.h>
+int main(){
+
+char Name[]	= "Aayush";
+int age = 17;
+float distance= 7.55;
+
+printf("Name =%s",Name);
+printf("\n age =%d",age);
+printf("\n distance = %f",distance);
+
+
+	
+	return 0;
+}
