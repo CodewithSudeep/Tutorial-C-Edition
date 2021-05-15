@@ -1,0 +1,21 @@
+W2.5) Write a program to print your information which you saved in your task 5.
+	
+	#include <stdio.h>
+	int main(){
+	char name[] = "Manik";
+	int age=18;;
+	char gender[] = "male";
+	char address[] = "imadol";
+	char email[] = "xxxx@gmail.com";
+	char favourite_song[] = "sunday morning love you";
+	
+
+	printf(" Name = %s",name);
+	printf("\n age = %d",age);
+	printf("\n gender = %s",gender);
+	printf("\n address = %s",address);
+	printf("\n email = %s",email);
+	printf("\n favourite_song = %s",favourite_song);	
+	
+	return 0;
+}

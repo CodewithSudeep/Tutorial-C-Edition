@@ -1,0 +1,14 @@
+W2.4) Write a proram to store your information like (Name,Age, Gender, Address, Email Address, Favrouit song).
+   
+	#include <stdio.h>
+
+	int main(){
+    	 printf("My name is Manik Tamang");
+    	 printf("\nMy age is 19");
+    	 printf("\nI am male");
+    	 printf("\nI live in Imadol");
+    	 printf("\nMy gmail addres is xxxx@gmail.com");
+   	 printf("\nMy favorite song is sunday morning love you");
+   
+    	return 0;
+	}

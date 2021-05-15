@@ -1,0 +1,12 @@
+W2.6) Write a program using different variable like Int, Char, Float, String.
+ #include <stdio.h>
+#include <conio.h>
+int main()
+{
+ int a=7;
+ float b=5.5;
+ char c[]= "one ";
+ printf("%d ",a);
+ printf("\n%f",b);
+ printf("\n%s ",c);
+}

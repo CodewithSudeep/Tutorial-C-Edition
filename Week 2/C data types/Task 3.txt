@@ -1,0 +1,19 @@
+W2.3) Write a code using Int,float datatypes.
+	#include <stdio.h>
+
+	int main()
+   {
+   	int a;
+   	float b;
+    	float sum;
+
+    	printf("enter any intger number:");
+    	scanf("%d", &a);
+
+    	printf("enter any real number:");
+   	scanf("%f", &b);
+
+  	 sum = a + b;
+   	 printf("sum of integer and real number is %f", sum);
+   	 return 0;
+    }
