@@ -1,1 +1,21 @@
 W2.6) Write a program using different variable like Int, Char, Float, String.
+   
+
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	int a,b,c,sum,sub,product,division;
+	printf("Enter the three numbers");
+	scanf("%d%d%d",&a,&b,&c);
+	sum=a+b+c;
+	sub=(a-b)-c;
+	product=(a*b)*c;
+	division=(a/b)/c;
+	printf("the sum of three number is %d\n",sum);
+	printf("the sub of three number is %d\n",sub);
+	printf("the product of three number is %d\n",product);
+	printf("the division of three number is %d\n",division);
+	getch();
+	
+}
