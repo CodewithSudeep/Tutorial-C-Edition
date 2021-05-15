@@ -1,1 +1,0 @@
-W2.3) Write a code using Int,float datatypes.
