@@ -8,3 +8,8 @@
 - C program structure
 - C data types
 - C basic Syntax
+
+#Week 3
+- Variables
+- Constants and Literals
+- C storage class
