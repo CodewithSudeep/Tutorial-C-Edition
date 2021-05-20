@@ -1,2 +1,13 @@
-W3.1) Write a code using different variables of interger(float, double, int) for addition of two digits A and B.
-Ans : 
+#include<stdio.h> 
+#include<conio.h>
+int main()
+{
+	int a,b,add;
+	printf("Enter first digit");
+	scanf("%d&a");
+	printf("enter second digit");
+	scanf("%d&b");
+	add=a+b;
+	printf("sum of %a & %b");
+	getch();
+}
