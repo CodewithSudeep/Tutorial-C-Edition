@@ -13,4 +13,4 @@ int main()
 }
 
 
-Ans.
+Ans.30

@@ -15,4 +15,11 @@ C. 5
 
 D. 3
 
-Ans.
+Ans.#include<stdio.h>
+int main()
+{
+	int = 5, a = 3;
+	if(a > 2)
+	printf("%d",default);	
+	return 0;
+}
