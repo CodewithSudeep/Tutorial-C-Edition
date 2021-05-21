@@ -6,4 +6,15 @@ void main(){
 }
 int i=6;
 
-Ans: 
+Ans: correction of this code:
+	#include<stdio.h>
+#include<conio.h>
+void main()
+{
+    int i;
+    printf(i=6);
+    return 0;
+}
+
+
+
