@@ -1,4 +1,4 @@
-W3.6) What is problem in the following code?
+//W3.6) What is problem in the following code?
 
 void main(){
     extern int i;
@@ -6,4 +6,4 @@ void main(){
 }
 int i=6;
 
-Ans: 
+//Ans: 

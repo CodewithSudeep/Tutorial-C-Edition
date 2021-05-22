@@ -1,4 +1,4 @@
-W3.8)  What will be the output of the C program? And explain the reason.
+//W3.8)  What will be the output of the C program? And explain the reason.
 #include<stdio.h>
 int main(){
 	int default = 5, a = 3;
@@ -15,4 +15,5 @@ C. 5
 
 D. 3
 
-Ans.
+Ans. compilation error
+     default is a C reserved keyword and hence it cannot be used.
