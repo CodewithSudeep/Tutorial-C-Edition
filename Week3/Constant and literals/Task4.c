@@ -1,8 +1,8 @@
 //W3.4) What are the two simple ways in C to define constants? And write a code with it.
 
-There are two simple ways in C to define constants:
-1. Using #define preprocessor.
-2. Using const keyword.
+//There are two simple ways in C to define constants:
+//1. Using #define preprocessor.
+//2. Using const keyword.
 
 #define preprocessor to define a constant:
 
@@ -22,7 +22,7 @@ int main()
 }
 
 
-const keyword to define costant:
+//const keyword to define costant:
 
 
 #include <stdio.h>

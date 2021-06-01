@@ -16,4 +16,8 @@ int main() {
    return 0;
 }
 
-//Ans: 
+//Ans: 50 
+	 // area is defined
+	 // area is calculated ( multipication between l and w)
+	 // value of area is printed
+	// value of NEWLINE constant is printed 

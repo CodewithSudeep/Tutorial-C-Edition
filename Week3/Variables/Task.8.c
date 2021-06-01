@@ -15,5 +15,5 @@ C. 5
 
 D. 3
 
-Ans. compilation error
-     default is a C reserved keyword and hence it cannot be used.
+//Ans. compilation error
+//     default is a C reserved keyword and hence it cannot be used.

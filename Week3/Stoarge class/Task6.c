@@ -2,8 +2,8 @@
 
 void main(){
     extern int i;
-    printf(“%d”,i);
+    printf("%d",i);
 }
 int i=6;
 
-//Ans: 
+//Ans: %d literal was absent.

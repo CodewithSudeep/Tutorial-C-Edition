@@ -8,7 +8,7 @@ Ans: auto,register,static and extern are storage classes in c .
  auto int month;
 } 
  
-  example of register storage classes:
+ // example of register storage classes:
 
 {
  register int miles;

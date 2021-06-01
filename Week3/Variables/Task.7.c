@@ -13,4 +13,4 @@ int main()
 }
 
 
-//Ans.
+//Ans. class = public + private + protected => int = int + int + int => here it performs addition between integers.
