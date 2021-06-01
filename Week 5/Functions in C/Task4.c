@@ -1,0 +1,1 @@
+W5.4)  Write a program to find the square of any number using the function.
