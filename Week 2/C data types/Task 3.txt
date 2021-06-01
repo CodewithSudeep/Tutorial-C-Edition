@@ -1,1 +1,11 @@
 W2.3) Write a code using Int,float datatypes.
+
+#include <stdio.h>
+#include <limits.h>
+int main()
+{
+ printf("Storage size for int : %d \n", sizeof(int));
+ printf("Storage size for float : %d \n", sizeof(float));
+ 
+ return 0;
+}

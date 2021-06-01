@@ -1,1 +1,2 @@
 Who invented C programming language?
+Ans: Dennis ritchie

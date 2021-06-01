@@ -1,4 +1,4 @@
-W3.7) What will be the output of the C program? Explain too.
+//W3.7) What will be the output of the C program? Explain too.
 
 #include<stdio.h>
 int main()
@@ -13,4 +13,4 @@ int main()
 }
 
 
-Ans.
+//Ans. class = public + private + protected => int = int + int + int => here it performs addition between integers.
