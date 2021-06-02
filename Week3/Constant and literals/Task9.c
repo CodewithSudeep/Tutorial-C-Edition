@@ -1,4 +1,4 @@
-//W3.9 Write the output of this program and explain the process too.
+W3.9 Write the output of this program and explain the process too.
 
 #include <stdio.h>
 
@@ -16,8 +16,4 @@ int main() {
    return 0;
 }
 
-//Ans: 50 
-	 // area is defined
-	 // area is calculated ( multipication between l and w)
-	 // value of area is printed
-	// value of NEWLINE constant is printed 
+Ans: 
