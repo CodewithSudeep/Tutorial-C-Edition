@@ -21,3 +21,7 @@
 #Week 5
 - Functions in C 
 - Loops in C 
+
+#Week 6
+- Scope Rules
+- Array
