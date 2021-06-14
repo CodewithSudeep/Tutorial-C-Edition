@@ -1,0 +1,1 @@
+W7.1) Write a program in C to input a string and print it.
