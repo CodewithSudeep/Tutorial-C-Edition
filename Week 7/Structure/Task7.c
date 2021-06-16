@@ -1,0 +1,1 @@
+W7.7) Store information of 10 students using structures.
