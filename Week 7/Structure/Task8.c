@@ -1,0 +1,1 @@
+W7.8) Write a program in C to show a pointer to Structure.
