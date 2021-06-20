@@ -25,3 +25,11 @@
 #Week 6
 - Scope Rules
 - Array
+
+#Week 7
+- String
+- Structure
+- Union
+
+#Week 8
+- File Handling I/O
