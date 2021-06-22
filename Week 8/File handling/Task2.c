@@ -1,0 +1,1 @@
+W8.2) Write a C program to Read a file.
